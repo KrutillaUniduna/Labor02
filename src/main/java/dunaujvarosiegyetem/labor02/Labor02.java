@@ -5,7 +5,7 @@
 package dunaujvarosiegyetem.labor02;
 
 import java.util.Scanner;
-
+//Git miatt
 /**
  *
  * @author Zsolti
